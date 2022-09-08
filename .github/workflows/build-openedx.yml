@@ -16,7 +16,7 @@ jobs:
     env:
       AWS_REGION: ap-south-1
 
-      CUSTOM_THEME_REPOSITORY: oedo-theme
+      CUSTOM_THEME_REPOSITORY: oedo-theme1
       CUSTOM_THEME_REPOSITORY_ORGANIZATION: crsry
       CUSTOM_THEME_REPOSITORY_REF: main
 
