@@ -58,4 +58,4 @@ jobs:
 
       - name: Build License Manager
         if: ${{ env.ENABLE_LICENSE_MANAGER == 'true' }}
-        uses: minischoolX/tutor-plugin-build-license-manager
+        uses: minischoolX/tutor-plugin-build-license-manager@main
